@@ -1,1 +1,16 @@
-
+##### +Phys Info #####
+Username:
+your_username_goes_here
+Password:
+your_password_goes_here
+Class Code:
+your_class_code_goes_here
+##### CANVAS Info #####
+BASE_URL:
+your_canvas_base_url_goes_here
+API_TOKEN:
+your_canvas_API_token_goes_here
+##### Default Term #####
+current_term:
+T2
+Update the term above to match the term for which you will be updating grades in Canvas!
